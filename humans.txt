@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tonsh -- a@a.a -- <twitter>
 
 # THANKS
 
