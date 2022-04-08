@@ -19,5 +19,6 @@ First deployment
 ## TODO
 =======
 >>>>>>> ce3ae79b36fb83b03c4ca46094dc427472807a8c
+Added stuffs.
 
 Git. Training
