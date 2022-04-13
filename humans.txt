@@ -13,6 +13,7 @@
 
 # THANKS
 <<<<<<< HEAD
+<<<<<<< HEAD
 	ERTERTERTERT
     <name>
 =======
@@ -23,6 +24,10 @@
 =======
     Thanks bro!
 >>>>>>> 597081f (Another thx.)
+=======
+
+    Thanks bro!
+>>>>>>> 78509cc (Saying thanks)
 
 # TECHNOLOGY COLOPHON
 
