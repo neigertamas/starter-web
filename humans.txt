@@ -24,6 +24,7 @@
 
     Thanks bro!
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 78509cc (Saying thanks)
 =======
     Thanks bro!
@@ -32,6 +33,9 @@
 
     Thanks bro!
 >>>>>>> 78509cc (Saying thanks)
+=======
+    Thanks bro!
+>>>>>>> 597081f (Another thx.)
 
 # TECHNOLOGY COLOPHON
 
