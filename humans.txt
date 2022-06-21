@@ -8,8 +8,13 @@
     Tonsh3 -- a@a.a -- <twitter>
 
 # THANKS
+<<<<<<< HEAD
 	ERTERTERTERT
     <name>
+=======
+
+    Thanks bro!
+>>>>>>> 78509cc (Saying thanks)
 
 # TECHNOLOGY COLOPHON
 
