@@ -4,8 +4,12 @@
 # TEAM
 
     Tonsh -- a@a.a -- <twitter>
+<<<<<<< HEAD
     Tonsh2 -- a@a.a -- <twitter>
     Tonsh3 -- a@a.a -- <twitter>
+=======
+    Tonsh -- a@a.a -- <twitter>
+>>>>>>> 5f29ac5 (Addadadadada)
 
 # THANKS
 <<<<<<< HEAD
